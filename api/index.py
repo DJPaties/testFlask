@@ -6,7 +6,7 @@ app = Flask(__name__)
 def hello_world():
     data = {
     "success": True,
-    "audioName": "https://test-flask-git-main-mdhost.vercel.app/static/audio.wav",
+    "audio_name": "https://test-flask-git-main-mdhost.vercel.app/static/audio.wav",
     }   
     return json.dumps(data)
 
