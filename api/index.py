@@ -5,9 +5,8 @@ app = Flask(__name__)
 @app.route("/")
 def hello_world():
     data = {
-    "name": "John",
-    "age": 30,
-    "city": "New York"
+    "success": True,
+    "audioName": "https://test-flask-git-main-mdhost.vercel.app/static/audio.wav",
     }   
     return json.dumps(data)
 
