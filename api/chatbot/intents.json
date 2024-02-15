@@ -1,0 +1,43 @@
+{
+  "intents": [
+    {
+      "tag": "Article 1",
+      "patterns": [
+        "How is the Kingdom of Saudi Arabia defined, with Islam as its religion, Arabic as its language, and Riyadh as its capital?",
+        "What constitutes the core of the Kingdom of Saudi Arabia's identity, with its constitution based on God's Book and the Sunnah of His Prophet?",
+        "What are the fundamental characteristics of the Kingdom of Saudi Arabia as a sovereign Arab Islamic state, with Arabic as its official language, and Riyadh as its capital",
+        "What principles shape the governance of the Kingdom of Saudi Arabia, rooted in Islam and Arabic culture, with Riyadh as its administrative center",
+        "How does the Kingdom of Saudi Arabia maintain its status as a sovereign Arab Islamic state, with Islam as its foundation, Arabic as its language, and Riyadh as its hub"
+      ],
+      "responses": [
+        "The Kingdom of Saudi Arabia is a sovereign Arab Islamic state with Islam as  its religion; God's Book and the Sunnah of His Prophet, God's prayers and peace be upon him, are its constitution, Arabic is its language and Riyadh is its capital."
+      ]
+    },
+    {
+      "tag": "Article 2",
+      "patterns": [
+        "What holidays does the state observe, like Id al-Fitr and Id al-Adha, following the Hegira calendar",
+        "Which calendar does the state use, and what holidays are celebrated, such as Id al-Fitr and Id al-Adha",
+        "What are the state's public holidays, like Id al-Fitr and Id al-Adha, based on the Hegira calendar",
+        "What are the main holidays in the state, such as Id al-Fitr and Id al-Adha, following the Hegira calendar",
+        "Which holidays does the state recognize, such as Id al-Fitr and Id al-Adha, according to the Hegira calendar"
+      ],
+      "responses": [
+        "The state's public holidays are Id al-Fitr and Id al-Adha. Its calendar is the Hegira calendar."
+      ]
+    },
+    {
+      "tag": "Article 3",
+      "patterns": [
+        "What are the specifications for the state's flag, including its color, dimensions, and inscription",
+        "How is the state's flag described, with details regarding its color, size ratio, and central inscription",
+        "What are the guidelines for the state's flag, outlining its green color, two-thirds width-to-length ratio, and specific inscription",
+        "Describe the state's flag, mentioning its green hue, dimensions, and the inscription There is but one God and Mohammed is His Prophet with a drawn sword beneath",
+        "What are the characteristics of the state's flag, including its green color, two-thirds width-to-length proportion, and the inscription with a drawn sword underneathWhat are the characteristics of the state's flag, including its green color, two-thirds width-to-length proportion, and the inscription with a drawn sword underneath"
+      ],
+      "responses": [
+        "The state's flag shall be as follows: It shall be green. Its width shall be equal to two-thirds of it's length. The words There is but one God and Mohammed is His Prophet shall be inscribed in the center with a drawn sword under it. The statute shall define the rules pertaining to it."
+      ]
+    }
+  ]
+}
